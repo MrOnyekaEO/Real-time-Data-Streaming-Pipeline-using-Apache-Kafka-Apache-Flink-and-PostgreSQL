@@ -15,8 +15,14 @@ Store processed data in a PostgreSQL database for further analysis.
 Ensure scalability and fault tolerance of the pipeline.
 Provide a user-friendly interface for monitoring and management.
 
-**Technology Stack
-Apache Kafka: A distributed streaming platform for publishing and subscribing to streams of records. It will act as the backbone of the pipeline.
-Apache Flink: A distributed stream processing framework for processing real-time data streams. It will be used for data processing tasks.
-PostgreSQL: A powerful, open-source object-relational database system. It will store the processed data.
-Docker Desktop: A convenient tool for developing, shipping, and running applications in containers.
+---
+
+**Technology Stack**
+
+**Apache Kafka**: A distributed streaming platform for publishing and subscribing to streams of records. It will act as the backbone of the pipeline.
+
+**Apache Flink**: A distributed stream processing framework for processing real-time data streams. It will be used for data processing tasks.
+
+**PostgreSQL**: A powerful, open-source object-relational database system. It will store the processed data.
+
+**Docker Desktop**: A convenient tool for developing, shipping, and running applications in containers.
